@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and working with community , open source contribution
 - 🌱 I’m currently learning Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
 - 💞️ I’m looking to collaborate on on GitHub and open source projects related to cloud computing and cloud native.
-- 📫 Reach out me at mohankrishna.kan96@gmail.com
+- 📫 Reach out me at mohankandikuppa119@gmail.com
 
 ## 💻 My Skill Set :  
 <table><tr><td valign="top" width="60%">
